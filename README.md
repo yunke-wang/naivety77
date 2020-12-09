@@ -6,8 +6,6 @@ My research interests lies in __Reinforcement Learning__ and __Imitation Learnin
 # Publication
 Yunke Wang, Chang Xu, Bo Du, Honglak Lee. _Learning to Weight Imperfect Demonstrations_. __Presented at Deep RL Workshop, NeurIPS 2020__. ([[Paper]](https://drive.google.com/file/d/14btCnIdnq2-9KRbeEJQCrqW86fcClKKg/view) [[Video]](https://slideslive.com/38941320/learning-to-weight-imperfect-demonstrations?ref=account-folder-62083-folders))
 
-%Yunke Wang,Chang Xu,Bo Du. _Selective Adversarial Imitation Learning_. __Under Review__.
-
 # Honors   
 Outstanding Student Scholarship              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wuhan University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;2018,&nbsp;2016  
 
