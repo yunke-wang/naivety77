@@ -8,7 +8,7 @@ Yunke Wang, Chang Xu, Bo Du, Honglak Lee. _Learning to Weight Imperfect Demonstr
 
 Yunke Wang, Chang Xu, Bo Du. _Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations_. __IJCAI 2021__.
 
-Yunke Wang, Bo Du, Chang Xu. _Multi-Tailed Vision Transformer for Efficient Inference_. __Under Review__.
+Yunke Wang, Bo Du, Chang Xu. _Multi-Tailed Vision Transformer for Efficient Inference_. __Preprint__.
 
 # Honors   
 Outstanding Student Scholarship              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wuhan University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;2018,&nbsp;2016  
